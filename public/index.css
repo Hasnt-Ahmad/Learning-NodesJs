@@ -1,0 +1,23 @@
+
+body{
+    padding-left: 10px;
+}
+nav{
+    display: flex !important;
+    justify-content: space-between !important;
+}
+nav ul li{
+    list-style: none;
+    padding: 10px;
+}
+nav ul{
+    display: flex;
+}
+
+th,td{
+    padding: 20px;
+    font-size: 16px;
+}
+table{
+    width: 50% !important;
+}
